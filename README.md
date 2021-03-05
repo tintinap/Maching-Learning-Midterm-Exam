@@ -6,7 +6,11 @@
 
 รหัสนักศึกษา 60070028
 
-# Model
+<b>Dataset</b> : Credit Card Transactions Fraud Detection Dataset
+
+from https://www.kaggle.com/kartik2112/fraud-detection?select=fraudTrain.csv
+
+# Models
 
 สามารถอ้างอิง model ต่างๆได้จากไฟล์ jupyter notebook ภายใน repository
 
