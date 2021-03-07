@@ -41,6 +41,13 @@ F1-Score : 0.9980663359455076
 ### Random Forest Classifier
 <u><b>Result:</b></u>
 
+Accuracy(%) : 99.61401355721146
+
+Precision : 1.0
+
+Recall : 0.9961401355721147
+
+F1-Score : 0.9980663359455076
 ### Neural Network
 <u><b>Result:</b></u>
 
